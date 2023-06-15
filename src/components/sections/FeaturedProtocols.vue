@@ -7,21 +7,21 @@ const { t } = useI18n();
 
 const featuredProtocols = [
   {
-    title: 'Xave',
+    title: 'AAYC',
     description: t('featuredProtocols.Xave.description'),
     linkText: t('featuredProtocols.Xave.linkText'),
     imgSrc: '/images/banners/xave.jpg',
     link: EXTERNAL_LINKS.Xave.Home,
   },
   {
-    title: 'Fjord Foundry',
-    description: t('featuredProtocols.Copper.description'),
-    linkText: t('featuredProtocols.Copper.linkText'),
-    imgSrc: '/images/banners/fjord.png',
+    title: 'Google Cloud Platform',
+    description: t('featuredProtocols.Gcp.description'),
+    linkText: t('featuredProtocols.Gcp.linkText'),
+    imgSrc: '/images/banners/gcp.png',
     link: EXTERNAL_LINKS.Copper.Home,
   },
   {
-    title: 'Gyroscope',
+    title: 'WHITE HAT DAO',
     description: t('featuredProtocols.Gyroscope.description'),
     linkText: t('featuredProtocols.Gyroscope.linkText'),
     imgSrc: '/images/banners/gyroscope.jpg',
@@ -29,10 +29,10 @@ const featuredProtocols = [
   },
 
   {
-    title: 'Beethoven X',
-    description: t('featuredProtocols.Beets.description'),
-    linkText: t('featuredProtocols.Beets.linkText'),
-    imgSrc: '/images/banners/beets.jpg',
+    title: 'LAYER2DAO',
+    description: t('featuredProtocols.L2DAO.description'),
+    linkText: t('featuredProtocols.L2DAO.linkText'),
+    imgSrc: '/images/banners/L2DAO.jpg',
     link: EXTERNAL_LINKS.Beets.Home,
   },
 ];

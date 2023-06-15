@@ -4,8 +4,8 @@ import AppHero from '@/components/heros/AppHero.vue';
 
 <template>
   <AppHero class="h-44">
-    <h1 class="headline" v-text="$t('defiLiquidityPools')" />
-    <p class="mt-2 text-xl text-white" v-text="$t('builtOnBalancer')" />
+    <h1 class="headline" v-text="$t('NFTS on Layer2')" />
+    <p class="mt-2 text-xl text-white" v-text="$t('Built on NFTEarth')" />
   </AppHero>
 </template>
 

@@ -8,7 +8,7 @@
     aria-labelledby="mediumTitle"
     role="img"
   >
-    <title id="mediumTitle">Link to Balancer's blog on Medium</title>
+    <title id="mediumTitle">Link to NFTEarth's blog on Medium</title>
     <g fill="none" fill-rule="evenodd">
       <g fill-rule="nonzero">
         <path

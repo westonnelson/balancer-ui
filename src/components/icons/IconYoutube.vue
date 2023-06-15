@@ -10,7 +10,7 @@
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   >
-    <title id="youtubeTitle">Link to Balancer's Youtube page</title>
+    <title id="youtubeTitle">Link to NFTEarth's Youtube page</title>
     <path
       d="M16 0C7.164 0 0 7.164 0 16C0 24.836 7.164 32 16 32C24.836 32 32 24.836 32 16C32 7.164 24.836 0 16 0Z"
       class="bg"

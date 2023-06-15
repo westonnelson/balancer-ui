@@ -8,7 +8,7 @@
     aria-labelledby="linkedinTitle"
     role="img"
   >
-    <title id="linkedinTitle">Link to Balancer's LinkedIn profile</title>
+    <title id="linkedinTitle">Link to NFTEarth's LinkedIn profile</title>
     <g fill-rule="nonzero" fill="none">
       <path
         class="bg"

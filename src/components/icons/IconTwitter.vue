@@ -8,7 +8,7 @@
     aria-labelledby="logoTitle"
     role="img"
   >
-    <title id="twitterTitle">Link to Balancer's Twitter</title>
+    <title id="twitterTitle">Link to NFTEarth's Twitter</title>
     <g fill-rule="nonzero" fill="none">
       <path
         class="bg"
