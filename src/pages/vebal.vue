@@ -1,6 +1,6 @@
 <script setup lang="ts">
 /**
- * veBAL page
+ * veNFTE page
  */
 import Hero from '@/components/contextual/pages/vebal/Hero.vue';
 import LMVoting from '@/components/contextual/pages/vebal/LMVoting/LMVoting.vue';
@@ -24,7 +24,7 @@ import { isVeBalSupported } from '@/composables/useVeBAL';
       class="xl:container xl:px-4 pt-16 xl:pt-20 xl:mx-auto"
     >
       <div class="xl:px-0 mb-16">
-        <LMVoting />
+        <veNFTE />
       </div>
     </div>
     <div v-else class="text-center">
